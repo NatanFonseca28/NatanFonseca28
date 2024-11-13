@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NatanFonseca28
-- 👀 I’m interested in VueJS, NodeJS, and Pyrhon
+- 👀 I’m interested in VueJS, NodeJS, Pyrhon and Cybersecurity
 - 🌱 I’m currently learning React, React Native and Python
 - 💞️ I’m looking to collaborate on Python and NodeJS
 - 📫 How to reach me: NatanFs28@gmail.com
